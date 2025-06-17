@@ -1,0 +1,19 @@
+{
+  "name": "creating-redis-service-containers",
+  "version": "1.0.0",
+  "description": "Creating Redis service containers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioVicenteStellaxius/creating-redis-service-containers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioVicenteStellaxius/creating-redis-service-containers/issues"
+  },
+  "homepage": "https://github.com/AntonioVicenteStellaxius/creating-redis-service-containers#readme"
+}
