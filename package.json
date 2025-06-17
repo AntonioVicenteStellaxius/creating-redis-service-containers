@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AntonioVicenteStellaxius/creating-redis-service-containers/issues"
   },
-  "homepage": "https://github.com/AntonioVicenteStellaxius/creating-redis-service-containers#readme"
+  "homepage": "https://github.com/AntonioVicenteStellaxius/creating-redis-service-containers#readme",
+  "dependencies": {
+    "redis": "^5.5.6"
+  }
 }
